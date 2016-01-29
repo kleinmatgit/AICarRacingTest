@@ -1,0 +1,3 @@
+(cpu1,Mr CPU1,BEZIER)
+(cpu2,Mr CPU2,LEFT)
+(car,Mr Player,LEFT)
